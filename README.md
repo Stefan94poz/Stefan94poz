@@ -31,9 +31,7 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ## 📊 GitHub Stats
 
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanstevic&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstevic&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanstevic&theme=radical)
-![My Stats](https://github-readme-stats.vercel.app/api?username=YourUser&count_private=true&show_icons=true&theme=radical)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=YourUser&count_private=true&show_icons=true&theme=radical)
 
 ---
