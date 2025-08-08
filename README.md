@@ -72,7 +72,6 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan94poz&show_icons=true&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Stefan94poz&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories&row=1)
 
-
 ---
 
 ## 🔗 Connect with Me
