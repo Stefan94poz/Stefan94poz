@@ -26,10 +26,6 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 AI-powered CV builder with real-time suggestions, LinkedIn integration, and recruiter tools.  
 Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 
-### [BarterApp](https://github.com/yourusername/barterapp)
-Swap items instantly with an AI-driven matching system.  
-Tech: **Next.js, NestJS, Turborepo, Zod**
-
 ---
 
 ## 📊 GitHub Stats
