@@ -21,9 +21,13 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+
+### **AI**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenWebUI](https://img.shields.io/badge/OpenWebUI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-234165?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Software & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,6 +49,8 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
 
+## 🎵 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 ---
 
 ## 🔗 Connect with Me
