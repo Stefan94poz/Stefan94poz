@@ -67,15 +67,11 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ---
 
 ## GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stefan94poz&theme=tokyonight)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=Stefan94poz&theme=onedark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stefan94poz&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan94poz&layout=compact&theme=radical)
 ---
-
-### 🎬 Latest YouTube Video
-[![Latest YouTube Video](https://ytcards.demolab.com/?id=VIDEO_ID&title=Video+Title&lang=en&timestamp=2025-08-08T00:00:00Z&background_color=000000&title_color=ffffff&stats_color=ffffff&width=400&duration=300 "Video Title")](https://www.youtube.com/watch?v=VIDEO_ID)
-
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-stevic-dev/)
