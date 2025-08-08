@@ -48,6 +48,7 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🎵 Now Playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
