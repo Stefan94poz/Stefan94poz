@@ -33,11 +33,13 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanstevic&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstevic&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanstevic&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=YourUser&count_private=true&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=YourUser&count_private=true&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/stefan-stevic-dev/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://wingz.dev)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:stefan.s.webdev@gmail.com)
