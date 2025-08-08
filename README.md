@@ -67,10 +67,13 @@ Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
 ---
 
 ## GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Stefan94poz&theme=tokyonight)](https://git.io/streak-stats)
-![trophy](https://github-profile-trophy.vercel.app/?username=Stefan94poz&theme=onedark)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stefan94poz&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan94poz&layout=compact&theme=radical)
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan94poz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan94poz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stefan94poz&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Stefan94poz&theme=onedark)
+
 ---
 
 ## 🔗 Connect with Me
