@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Stefan Stević
+# 👋 Hello there, I'm Stefan Stević
 
 ## 🚀 About Me
 I'm a Full-Stack Developer passionate about building **scalable apps** and **AI-powered tools**.  
