@@ -52,14 +52,6 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 
 ---
 
-## 📌 Featured Projects
-
-### [CVzilla](https://github.com/yourusername/cvzilla)
-AI-powered CV builder with real-time suggestions, LinkedIn integration, and recruiter tools.  
-Tech: **Next.js, NestJS, Prisma, Tailwind, Ollama**
-
----
-
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
