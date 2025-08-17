@@ -54,6 +54,15 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   8 hrs 57 mins   ██████████████████████▓░░   90.49 %
+Prisma       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
