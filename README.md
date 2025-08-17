@@ -56,15 +56,15 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 9 hrs 50 mins
+Total Time: 12 hrs 22 mins
 
-TypeScript   8 hrs 57 mins   ██████████████████████▓░░   90.49 %
-Prisma       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   11 hrs 27 mins  ███████████████████████░░   91.69 %
+Prisma       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
