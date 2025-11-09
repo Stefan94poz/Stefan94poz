@@ -58,13 +58,13 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 ```txt
 From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 3 hrs 13 mins
+Total Time: 2 hrs 57 mins
 
-Markdown     52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Bash         37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-YAML         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-JSON         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-TypeScript   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+Bash         37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Markdown     36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+YAML         30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+JSON         26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+TypeScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
 ```
 
 <!--END_SECTION:waka-->
