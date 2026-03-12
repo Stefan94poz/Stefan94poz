@@ -75,7 +75,6 @@ JavaScript   17 mins               ▓░░░░░░░░░░░░░░
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stefan94poz&theme=react-dark)
 ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan94poz&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=Stefan94poz&theme=onedark&title=MultiLanguage,Experience,Commits,Repositories&row=1)
 
 ---
 
