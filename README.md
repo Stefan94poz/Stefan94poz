@@ -56,15 +56,15 @@ Currently focused on **Next.js + NestJS** projects, clean architectures, and int
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Total Time: 17 hrs 15 mins
+Total Time: 15 hrs 40 mins
 
-TypeScript    14 hrs 4 mins         ████████████████████▒░░░░   81.28 %
-Markdown      1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Astro         46 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Python        32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-TSConfig      9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TypeScript    13 hrs 8 mins         █████████████████████░░░░   83.55 %
+Markdown      1 hr 9 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Python        32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Astro         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+CSS           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
